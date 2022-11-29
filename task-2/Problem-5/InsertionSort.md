@@ -26,14 +26,17 @@ The sorting mechanism is very trivial, It's to consider the first element to be 
 First things first, let's define what a stable algorithm is...
 > a **Stable Sorting Algorithm** is an algorithm which sorts the elements while keeping them in order
 
-for example:<br> 
-if we have a list of elements as follows: 9 6 7 6 8\
-so their indices are : 1 2 3 4 5\
+For Example:<br> 
+<tab>if we have a list of elements as follows: 9 6 7 6 8\
+<tab>so their indices are : 1 2 3 4 5\
 <br>
-after sorting them using a stable algorithm we would have the following:\
-6 6 7 8 9\
-with reference to their indicies **before** sorting would be:\
-2 4 3 5 1
+<tab>after sorting them using a stable algorithm we would have the following:\
+<tab>6 6 7 8 9\
+<tab>with reference to their indicies **before** sorting would be:\
+<tab>2 4 3 5 1
 
 ![](./Stable.jpg)
+
+<hr>
+Hope you like it :black_heart:	:handshake:	
 
