@@ -2,10 +2,10 @@
 
 ### Sorting Mechanism:
 
- - The sorting mechanism is very trivial, It's to consider the first element to be sorted, and all the elements after to be compared with the previous elements, if the element is smaller than it's precednt we swap them. In very simple steps we do the following: 
+The sorting mechanism is very trivial, It's to consider the first element to be sorted, and all the elements after to be compared with the previous elements, if the element is smaller than it's precednt we swap them. In very simple steps we do the following: 
 
 * mark first element as sorted
-* for each unsorted element X
+* for each unsorted element X\
     'extract' the element X
     
 * for j = lastSortedIndex down to 0
