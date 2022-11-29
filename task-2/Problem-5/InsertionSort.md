@@ -35,5 +35,5 @@ after sorting them using a stable algorithm we would have the following:
 with reference to their indicies **before** sorting would be:
 2 4 3 5 1
 
-![](./Stable.webp)
+![](./Stable.jpg)
 
