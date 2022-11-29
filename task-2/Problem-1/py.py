@@ -35,4 +35,5 @@ while True:
     strmiss = " miss " if hits==1 else " misses "
     print(f"Your Guess Has: {hits} {strhit} and {misses} {strmiss}.")
     print("Try again. Please Enter a 3-digit number: ")
+
 print(f"Good Job! You guessed it correctly for only {cnt} Guesses.")
