@@ -17,6 +17,6 @@ The sorting mechanism is very trivial, It's to consider the first element to be 
 ![](./Insertion.gif)
 ***
 ### Time & Space Complexity
-- The Time Complexity for Insertion sort algorithm is : O(N^2)
+- The Time Complexity for Insertion sort algorithm is : O(N^2^)
 - The Auxiliary Space Complexity for Insertion sort algorithm is : O(1)
 
