@@ -6,7 +6,7 @@ The sorting mechanism is very trivial, It's to consider the first element to be 
 
 * mark first element as sorted
 * for each unsorted element X\
-    'extract' the element X
+    - 'extract' the element X
     
 * for j = lastSortedIndex down to 0\
     - if current element j > X\
