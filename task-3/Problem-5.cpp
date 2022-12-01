@@ -28,11 +28,12 @@ int main(){
         if(ind == 0){
             ans = max(ans, v[ind] - i);
         }
-        else if(i < v[ind]){
+        else if(ind < m){
             ans = max(ans, min( v[ind] - i , i - v[ind-1] ));
         }
-        else{
-            ans = max(ans, i - v[ind] );
+        else if(ind == m){
+            if(i >= v[ind-1]) ans = max(ans, i - v[ind-1]);
+            else ans = max(ans, min(v[ind-1] - i, i - v[ind-2] ));
         }
     }
     cout << ans << endl;
