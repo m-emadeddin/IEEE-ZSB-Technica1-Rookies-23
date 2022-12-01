@@ -14,7 +14,7 @@ The sorting mechanism is very trivial, It's to consider the first element to be 
 
 * break loop and insert X here
 
-![](./Insertion.gif)
+![](./imgs/Insertion.gif)
 ***
 ### Time & Space Complexity
 - The Time Complexity for Insertion sort algorithm is : O(N<sup>2</sup>)
@@ -35,7 +35,7 @@ For Example:<br>
 <tab>with reference to their indicies **before** sorting would be:\
 <tab>2 4 3 5 1
 
-![](./Stable.jpg)
+![](./imgs/Stable.jpg)
 
 <hr>
 Hope you like it :black_heart:	:handshake:	
