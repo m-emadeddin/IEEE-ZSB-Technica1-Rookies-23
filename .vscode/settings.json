@@ -11,6 +11,8 @@
         "string": "cpp",
         "vector": "cpp",
         "iostream": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp"
     }
 }
