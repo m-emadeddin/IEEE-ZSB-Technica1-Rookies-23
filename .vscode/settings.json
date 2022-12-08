@@ -13,6 +13,11 @@
         "iostream": "cpp",
         "complex": "cpp",
         "sstream": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "map": "cpp"
     }
 }
