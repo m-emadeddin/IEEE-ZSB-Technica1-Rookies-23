@@ -16,7 +16,7 @@
         "regex": "cpp",
         "array": "cpp",
         "string_view": "cpp",
-        "ranges": "cpp",
+        "ranges": "cpp" ,
         "span": "cpp",
         "map": "cpp",
         "any": "cpp",
