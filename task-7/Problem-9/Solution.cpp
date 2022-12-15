@@ -9,10 +9,7 @@ using namespace std;
 
 bool isDistinct(ll n){
     string s = to_string(n);
-    set<char>ss;
-    for(auto i : s){
-        ss.insert(i);
-    }
+    set<char>ss (s.begin(), s.end());
     return ss.size() == s.size();
 }
 
